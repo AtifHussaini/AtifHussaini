@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/2weekatif" target="blank"><img src="https://img.shields.io/twitter/follow/2weekatif?logo=twitter&style=for-the-badge" alt="2weekatif" /></a> </p>
 
-- 🔭 I’m currently working on **NBA Jam**
+- 🔭 I’m currently working on **TRIP ADVISOR!**
 
 - 📫 How to reach me **ahussaini314@gmail.com**
 
