@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atifhussaini&label=Profile%20views&color=0e75b6&style=flat" alt="atifhussaini" /> </p>
 
-- 🔭 I’m currently working on **TRIP ADVISOR!**
-
 - 📫 How to reach me **ahussaini314@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
